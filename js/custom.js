@@ -1,4 +1,5 @@
-function SkaiciuSuma(pirmasSkaicius, antrasSkaicius){
-	let SkaiciuSuma = pirmasSkaicius + antrasSkaicius;
-	console.log(SkaiciuSuma);
+function dalinti(x, y){
+	let resultatas = x / y;
+	alert(resultatas);
+	console.log(resultatas);
 }
