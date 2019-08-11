@@ -1,0 +1,78 @@
+.container{
+    background-color: none;
+}
+
+h2{
+    
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.circle{
+    position: relative;
+    right: 0px;
+    width: 500px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+#logo{
+    height: 90%;
+    width: 90%;
+}
+*/
+
+
+
+/*
+li a{
+    font-family: 'Roboto', sans-serif !impotant;
+*/
+}
+
+/*
+.container{
+    background-image:imageurl("bridge.jpg");
+}
+*/
+/*
+
+.class{
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 10px;
+    align-items: flex-end;
+    font-family: 'Roboto', sans-serif;
+    float:inherit;
+    display: block;
+    margin-left: 1000;
+    margin-right: auto;
+}
+
+*/
+
