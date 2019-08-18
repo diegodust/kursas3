@@ -1,4 +1,4 @@
-<?php $salis = 'Lietuvas'; ?>
+<?php $salis = 'Lietuva'; ?>
 <?php $miestas = 'Vilnius'; ?>
 <?php $populiacija = 574221; ?>
 
@@ -7,15 +7,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Namu darbas php1</title>
+	<title>Namu darbas php2</title>
 </head>
 
 <body>
-	<ul>
-		<li><?php echo $salis; ?></li>
-		<li><?php echo $miestas; ?></li>
-		<li><?php echo $populiacija; ?></li>
-	</ul>
-				
+	<p><?php echo '"' . $miestas . ' -' . ' Lietuvos sostinė"'; ?></p>	
+	<p><?php echo "''" . $miestas . " ir $salis" . " sparčiai auga''"; ?></p>			
 </body>
 </html>
